@@ -1,0 +1,1 @@
+console.log("Script injecté dans la page !");
