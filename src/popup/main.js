@@ -1,4 +1,5 @@
-import { createApp } from 'vue';
-import Popup from './Popup.vue';
+import { createApp } from 'vue'
+import { createStore } from 'vuex'  
+import app from './App.vue'
 
-createApp(Popup).mount('#app');
+app.mount('#app')
