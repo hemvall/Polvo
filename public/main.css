@@ -59,7 +59,7 @@ h1 {
 .footer {
     position: fixed;
     display: flex;
-    bottom: 30px;
+    bottom: 15px;
     width: 100%;
     justify-content: space-between;
     padding: 0 20px;
